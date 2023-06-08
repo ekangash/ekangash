@@ -75,5 +75,5 @@
 <p align="left">
   <a href="https://vk.com/id173637019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="uckusrcohuy6t4sei-rvzcqq" height="30" width="40" /></a>
   <a href="https://ru.stackoverflow.com/users/446152/ekangash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ekangash" height="30" width="40" /></a>
-  <a href="https://t.me/ekangash" target="blank"><img align="center" src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" alt="ekangash" height="30" width="40" /></a>
+  <a href="https://t.me/ekangash" target="blank"><img align="center" src="https://f.nodacdn.net/520196" alt="ekangash" height="30" width="40" /></a>
 </p>
