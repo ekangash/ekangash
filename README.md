@@ -23,10 +23,10 @@
 
 ### 2. ⚡Frontend-технологии:
 - Языки программирования:
-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
+  [TypeScript](https://www.typescriptlang.org/),
 - Библиотеки:
   [React](https://reactjs.org/),
-  [TypeScript](https://www.typescriptlang.org/),
   [ReactHookForm](https://react-hook-form.com/),
   [Slate](https://docs.slatejs.org/),
   [Axios](https://github.com/axios/axios),
