@@ -12,7 +12,10 @@
   [Yii2](https://www.yiiframework.com/),
   [Laravel](https://laravel.com/)
 - Библиотеки:
-  [Spatie](https://spatie.be/),
+  [Spatie](https://spatie.be/)
+- Тестирование:
+  [Pest](https://pestphp.com/), 
+  [Laravel feature testing](https://laravel.com/docs/8.x/testing) 
 - Инструменты: 
   [Elasticsearch](https://www.elastic.co/),
   [Swagger](https://swagger.io/),
@@ -39,7 +42,7 @@
   [NextJS](https://nextjs.org/), 
 - Тестирование:
   [Jest](https://jestjs.io/), 
-  [ReactTestLibrary](https://testing-library.com/docs/react-testing-library/intro/)
+  [React Test Library](https://testing-library.com/docs/react-testing-library/intro/)
 - Стилизация: 
   [Tailwind](https://tailwindcss.com/),
   [Scss](https://sass-lang.com/),
