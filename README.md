@@ -60,6 +60,7 @@
 - Языки программирования:
   [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - Утилиты:
+  [Сertbot](https://certbot.eff.org/),
   [Tmux](https://manpages.ubuntu.com/manpages/trusty/man1/tmux.1.html),
   [SSH](https://www.openssh.com/manual.html)
 - Инструменты:
