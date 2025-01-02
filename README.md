@@ -1,82 +1,30 @@
-## 🐻‍❄️ Приветствую здесь👋
+🐻‍❄️ Приветствую незнакомец! 👋
 
-Я профессиональный веб-разработчик с опытом работы более 3 лет. 
-Мои навыки включают разработку веб-сайтов, веб-приложений и интерфейсов, а также работу с базой данных и серверной структурой.
+Я — профессиональный веб-разработчик с более чем 3-летним опытом. Моя специализация включает разработку веб-сайтов, приложений и интерфейсов, а также работу с базами данных и разворачивание полноценного сервера.
 
-Имею опыт в использовании различных языков программирования, включая PHP, JavaScript, а также знаком с различными фреймворками и инструментами.
+🌟 Мой подход
 
-### 1. ⚡Backend-технологии:
-- Язык программирования: 
-  [PHP](https://www.php.net/),
-- Фреймворки:
-  [Yii2](https://www.yiiframework.com/),
-  [Laravel](https://laravel.com/)
-- Библиотеки:
-  [Spatie](https://spatie.be/)
-- Тестирование:
-  [Pest](https://pestphp.com/), 
-  [Laravel feature testing](https://laravel.com/docs/8.x/testing) 
-- Инструменты: 
-  [Elasticsearch](https://www.elastic.co/),
-  [Swagger](https://swagger.io/),
-  [Postman](https://www.postman.com/),
-  [PhpStorm](https://www.jetbrains.com/phpstorm/),
-  [xDebug](https://xdebug.org/),
-  [PostgreSQL](https://www.postgresql.org/),
+Я постоянно изучаю новые технологии и применяю передовые методики разработки, что позволяет мне оставаться в курсе последних тенденций в отрасли. Я считаю, что важно не только создавать функциональные проекты, но и делать их эстетически привлекательными и удобными для пользователей.
 
-### 2. ⚡Frontend-технологии:
-- Языки программирования:
-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
-  [TypeScript](https://www.typescriptlang.org/),
-- Библиотеки:
-  [React](https://reactjs.org/),
-  [ReactHookForm](https://react-hook-form.com/),
-  [Slate](https://docs.slatejs.org/),
-  [Axios](https://github.com/axios/axios),
-  [PropTypes](https://www.npmjs.com/package/prop-types),
-  [Yup](https://github.com/jquense/yup),
-  [jQuery](https://jquery.com/),
-  [jsTree](https://www.jstree.com/),
-  [Webpack](https://webpack.js.org/)
-- Фреймворки:
-  [NextJS](https://nextjs.org/), 
-- Тестирование:
-  [Jest](https://jestjs.io/), 
-  [React Test Library](https://testing-library.com/docs/react-testing-library/intro/)
-- Стилизация: 
-  [Tailwind](https://tailwindcss.com/),
-  [Scss](https://sass-lang.com/),
-  [Bootstrap](https://getbootstrap.com/)
-- Управление состоянием:
-  [Redux](https://redux.js.org/), 
-  [MobX](https://mobx.js.org/README.html)
-- Инструменты:
-  [Node.js](https://nodejs.org/en),
-  [NPM](https://www.npmjs.com/),
-  [PhpStorm](https://www.jetbrains.com/webstorm/),
+🤝 Готов к сотрудничеству
 
-### 3. ⚡Unix-подобные системы
+Я открыт для новых проектов и возможностей. Если вам нужен опытный веб-разработчик, который обеспечит высокое качество работы и внесет свой вклад в достижение ваших целей, буду рад рассмотреть ваши предложения.
 
-- Языки программирования:
-  [Bash](https://www.gnu.org/software/bash/manual/bash.html)
-- Утилиты:
-  [Сertbot](https://certbot.eff.org/),
-  [Tmux](https://manpages.ubuntu.com/manpages/trusty/man1/tmux.1.html),
-  [SSH](https://www.openssh.com/manual.html)
-- Инструменты:
-  [Docker](https://docs.docker.com/),
-  [Git](https://git-scm.com/)
+Имею опыт в использовании различных языков программирования. Знаком на практике с различными фреймворками и инструментами:
 
-Мой подход к работе характеризуется постоянным изучением новых технологий и применением передовых методик разработки, 
-что позволяет мне развиваться и быть в курсе последних тенденций в отрасли.
-Я считаю, что важно не только создавать функциональные проекты, но и делать их эстетически привлекательными и удобными для пользователей.
+### 1. ⚡[PHP](https://www.php.net/):
+[Yii2](https://www.yiiframework.com/), [Laravel 11](https://laravel.com/). [Laravel Spatie Query Builder](https://spatie.be/docs/laravel-query-builder/v5/introduction), [Laravel Spatie Media Library](https://spatie.be/docs/laravel-medialibrary/v10/introduction), [Pest PHP testing framework](https://pestphp.com/), [Laravel Telescope](https://laravel.com/docs/8.x/telescope), [Laravel Scout](https://laravel.su/docs/10.x/scout), [Swagger](https://swagger.io/), [Laravel Backup](https://github.com/spatie/laravel-backup), [Redis](https://redis-docs.ru/), [Laravel Queue](https://laravel.com/docs/11.x/queues), [Laravel Horizon](https://laravel.su/docs/11.x/horizon)
 
-Я готов к сотрудничеству и открыт к новым проектам и возможностям. 
-Если вам нужен опытный веб-разработчик, который может обеспечить высокое качество работы и внести свой вклад в достижение ваших целей, 
-я буду рад рассмотреть ваши предложения.
+### 2. ⚡[TypeScript](https://www.typescriptlang.org/):
+[React](https://reactjs.org/), [ReactHookForm](https://react-hook-form.com/), [Slate](https://docs.slatejs.org/), [Axios](https://github.com/axios/axios), [PropTypes](https://www.npmjs.com/package/prop-types), [Yup](https://github.com/jquense/yup), [jQuery](https://jquery.com/), [jsTree](https://www.jstree.com/), [Webpack](https://webpack.js.org/), [NextJS](https://nextjs.org/), [Jest](https://jestjs.io/), [React Test Library](https://testing-library.com/docs/react-testing-library/intro/), [Tailwind](https://tailwindcss.com/), [Scss](https://sass-lang.com/), [Bootstrap](https://getbootstrap.com/), [MobX](https://mobx.js.org/README.html), [Node.js](https://nodejs.org/en), [NPM](https://www.npmjs.com/), [Storybook](https://storybook.js.org/docs)
+
+### 3. ⚡[Ubuntu](https://ubuntu.com/):
+[Bash](https://www.gnu.org/software/bash/manual/bash.html), [Сertbot](https://certbot.eff.org/), [Tmux](https://manpages.ubuntu.com/manpages/trusty/man1/tmux.1.html), [SSH](https://www.openssh.com/manual.html), [Docker](https://docs.docker.com/), [Docker Compose](https://docs.docker.com/compose/), [Git](https://git-scm.com/), [Meilisearch](https://www.meilisearch.com/docs/learn/what_is_meilisearch/overview), [Scheduler](https://github.com/mcuadros/ofelia)
+
+
+🤔 На практике, использовав большинство описанных технологий, релизовал следующий pet-проект: https://unstock.ru/ekangash
 
 <h3 align="left">Публичные социальные профили:</h3>
-<p>Разработанный мной pet-project: https://unstock.ru/ekangash</p>
 
 <p align="left">
   <a href="https://vk.com/id173637019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="uckusrcohuy6t4sei-rvzcqq" height="30" width="40" /></a>
